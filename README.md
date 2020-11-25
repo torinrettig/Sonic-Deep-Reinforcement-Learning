@@ -113,7 +113,7 @@ Links to project resources:
 
 - [GitHub Repository](https://github.com/torinrettig/Sonic-Deep-Reinforcement-Learning) - Data, models, code, presentation and writeup for the project.
 
-- [Blog Post @ torinrettig.net](https://torinrettig.net/Seattle_AirBnB_Project_Writeup/) - A much more detailed version of the Medium article, going into more depth on data processing, metrics and modeling.
+- [Blog Post @ torinrettig.net](https://torinrettig.net/Sonic_Deep_Reinforcement_Learning/) - A much more detailed writeup of the project
 
   
 

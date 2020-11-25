@@ -121,5 +121,5 @@ Ultimately the Borghi model was extremely effective and solved for the deficienc
 
 ## 7. Resources
 -  [Github Repository](https://github.com/torinrettig/Sonic-Deep-Reinforcement-Learning) - GitHub repository containing code, presentations and data.
-
 - [Presentation Deck]() - This is a PowerPoint presentation deck created for a live presentation of project results. 
+- [Blog Post @ torinrettig.net](https://torinrettig.net/Sonic_Deep_Reinforcement_Learning/) - A much more detailed writeup of the project.
